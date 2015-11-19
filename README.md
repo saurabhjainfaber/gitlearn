@@ -1,2 +1,2 @@
-# sj
+# gitlearn
 Git repository on github
